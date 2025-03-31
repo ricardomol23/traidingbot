@@ -153,6 +153,7 @@ def run_bot():
         mt5.shutdown()
         print("✅ Bot detenido.")
 
-# Ejecutar el bots
+# Ejecutar el bots, soy ricardo
+
 pass
 run_bot()
